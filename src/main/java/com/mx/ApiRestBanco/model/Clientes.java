@@ -1,4 +1,4 @@
-package com.mx.ApiRestBanco.ApiRestBanco.model;
+package com.mx.ApiRestBanco.model;
 
 import java.sql.Date;
 
@@ -69,16 +69,6 @@ public class Clientes {
    private Date fechaNacim;
 
    // ? Los tipo de datos primitivos de preferencia se tienen que parsear -- casteo
-
-
-
-
-
-
-
-
-
-   
 
 
 }

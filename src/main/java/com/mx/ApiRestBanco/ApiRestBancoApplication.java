@@ -1,4 +1,4 @@
-package com.mx.ApiRestBanco.ApiRestBanco;
+package com.mx.ApiRestBanco;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
